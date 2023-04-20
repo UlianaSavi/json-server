@@ -1,39 +1,35 @@
 {
-    "users": [{
-            "name": {
-                "firstName": "Tester1",
-                "lastName": "1"
-            },
-            "email": "qwe@qwe.qe",
-            "password": "0",
-            "birthDate": "Date",
-            "gender": "0",
-            "phone": "0",
-            "citizenship": "0"
-        },
-        {
-            "name": {
-                "firstName": "Tester2",
-                "lastName": "2"
-            },
-            "email": "qwe@qwe.qe",
-            "password": "234",
-            "birthDate": "Date",
-            "gender": "0",
-            "phone": "0",
-            "citizenship": "0"
-        },
-        {
-            "name": {
-                "firstName": "Tester3",
-                "lastName": "3"
-            },
-            "email": "qwe@qwe.qe",
-            "password": "456",
-            "birthDate": "Date",
-            "gender": "0",
-            "phone": "0",
-            "citizenship": "0"
-        }
-    ]
+  "users": [
+    {
+      "email": "tester@asd.ru",
+      "password": "$2a$10$SuO2qPdclShwJxtI4/0NLOvu5alPerayZLi0EXRJbLFOQ4wb4cjN.",
+      "id": 1
+    },
+    {
+      "email": "qwqwe@qwe.ru",
+      "password": "$2a$10$JHg9a.xOIc7FkFxFLLOSnOqvxUlFd2N4HJ2E2PT60PsJ7Kqkvhmri",
+      "name": {
+        "firstName": "Tester",
+        "lastName": "Tester123"
+      },
+      "birthDate": "new Date()",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
+      "id": 2
+    },
+    {
+      "email": "333@qwe.ru",
+      "password": "$2a$10$m96/jpLRZ5Qj36MhXCRyEetxocH.97ofEOsAiqSZa9q.uESO//kSW",
+      "name": {
+        "firstName": "qwewqe",
+        "lastName": "qwe"
+      },
+      "birthDate": "08.12.1999",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
+      "id": 3
+    }
+  ]
 }

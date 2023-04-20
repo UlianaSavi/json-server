@@ -1,2 +1,18 @@
 # json-server
 json-server for  Airways-rs-school 
+
+## Install:
+`npm install -g json-server`
+
+### Start JSON Server:
+
+`json-server --watch db.json`
+
+### Routes:
+- home - `http://localhost:8080/`
+
+- get data from db - `http://localhost:8080/users`
+
+- register - `POST /register` (*email* and *password* are required in the *request* body. **Must be valid and in a single copy** )
+
+- login - `POST /login` (*email* and *password* are required in the *request* body.)
