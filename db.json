@@ -1,0 +1,39 @@
+{
+    "users": [{
+            "name": {
+                "firstName": "Tester",
+                "lastName": "1"
+            },
+            "email": "qwe@qwe.qe",
+            "password": "0",
+            "birthDate": "Date",
+            "gender": "0",
+            "phone": "0",
+            "citizenship": "0"
+        },
+        {
+            "name": {
+                "firstName": "Tester",
+                "lastName": "2"
+            },
+            "email": "qwe@qwe.qe",
+            "password": "234",
+            "birthDate": "Date",
+            "gender": "0",
+            "phone": "0",
+            "citizenship": "0"
+        },
+        {
+            "name": {
+                "firstName": "Tester",
+                "lastName": "3"
+            },
+            "email": "qwe@qwe.qe",
+            "password": "456",
+            "birthDate": "Date",
+            "gender": "0",
+            "phone": "0",
+            "citizenship": "0"
+        }
+    ]
+}
