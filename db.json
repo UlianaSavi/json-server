@@ -1,26 +1,8 @@
 {
   "users": [
     {
-      "email": "tester@asd.ru",
-      "password": "$2a$10$SuO2qPdclShwJxtI4/0NLOvu5alPerayZLi0EXRJbLFOQ4wb4cjN.",
-      "id": 1
-    },
-    {
-      "email": "qwqwe@qwe.ru",
-      "password": "$2a$10$JHg9a.xOIc7FkFxFLLOSnOqvxUlFd2N4HJ2E2PT60PsJ7Kqkvhmri",
-      "name": {
-        "firstName": "Tester",
-        "lastName": "Tester123"
-      },
-      "birthDate": "new Date()",
-      "gender": "",
-      "phone": "",
-      "citizenship": "",
-      "id": 2
-    },
-    {
       "email": "333@qwe.ru",
-      "password": "$2a$10$m96/jpLRZ5Qj36MhXCRyEetxocH.97ofEOsAiqSZa9q.uESO//kSW",
+      "password": "$2a$10$8TVZ.tUNtYffzJsuH8olb.ugbfplcusnrh6m2f77oT2M7sWvuCZce",
       "name": {
         "firstName": "qwewqe",
         "lastName": "qwe"
@@ -29,7 +11,59 @@
       "gender": "",
       "phone": "",
       "citizenship": "",
+      "id": 1
+    },
+    {
+      "email": "tester@test.ru",
+      "password": "$2a$10$qOmXIPsHJIHmG5OZ6OlTQOu9p4Qbi8iYLHDjKrFtQCyqsgowU/m7e",
+      "name": {
+        "firstName": "tester",
+        "lastName": "tester"
+      },
+      "birthDate": "08.12.1999",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
+      "id": 2
+    },
+    {
+      "email": "tester2@test.ru",
+      "password": "$2a$10$GrID3YP6arrvtMi4yaXn1.Lfd3sgbiM/JU/S6U6fxppda45tdEKfC",
+      "name": {
+        "firstName": "tester2",
+        "lastName": "tester2"
+      },
+      "birthDate": "08.12.1999",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
       "id": 3
+    },
+    {
+      "email": "tester3@test.ru",
+      "password": "$2a$10$mPl9W0gvsosgkt4y5qZVb.3Frow8zQ75SuCjJufKKxzFVeeN1UgWy",
+      "name": {
+        "firstName": "tester3",
+        "lastName": "tester3"
+      },
+      "birthDate": "08.12.1999",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
+      "id": 4
+    },
+    {
+      "email": "tester4@test.ru",
+      "password": "$2a$10$ks8VvdhiZwrPoqAz3vsmpO1xihO7ezoq7eBddEcisUuK6bkwywrk2",
+      "name": {
+        "firstName": "tester4",
+        "lastName": "tester4"
+      },
+      "birthDate": "08.12.1999",
+      "gender": "",
+      "phone": "",
+      "citizenship": "",
+      "id": 5
     }
   ]
 }

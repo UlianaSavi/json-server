@@ -9,6 +9,8 @@ json-server for  Airways-rs-school
 `json-server --watch db.json`
 
 ### Routes:
+- START SERVER WORK - `json-server db.json -m ./node_modules/json-server-auth`
+
 - home - `http://localhost:4000/`
 
 - get data from db - `http://localhost:4000/users`
