@@ -4,10 +4,6 @@ json-server for  Airways-rs-school
 ## Install:
 `npm install -g json-server`
 
-### Start JSON Server:
-
-`json-server --watch db.json`
-
 ### Routes:
 - START SERVER WORK - `json-server db.json -m ./node_modules/json-server-auth`
 
