@@ -9,9 +9,9 @@ json-server for  Airways-rs-school
 `json-server --watch db.json`
 
 ### Routes:
-- home - `http://localhost:8080/`
+- home - `http://localhost:4000/`
 
-- get data from db - `http://localhost:8080/users`
+- get data from db - `http://localhost:4000/users`
 
 - register - `POST /register` (*email* and *password* are required in the *request* body. **Must be valid and in a single copy** )
 
