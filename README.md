@@ -1,2 +1,2 @@
 # json-server
-json-server for  Airways-rs-school Private
+json-server for  Airways-rs-school 
