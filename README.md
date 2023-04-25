@@ -9,7 +9,9 @@ json-server for  Airways-rs-school
 
 - home - `http://localhost:4000/`
 
-- get data from db - `http://localhost:4000/users`
+- get users from db - `http://localhost:4000/users`
+
+- get tickets from db - `http://localhost:4000/tickets`
 
 - register - `POST /register` (*email* and *password* are required in the *request* body. **Must be valid and in a single copy** )
 

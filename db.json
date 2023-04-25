@@ -64,6 +64,46 @@
       "phone": "",
       "citizenship": "",
       "id": 5
+    },
+    {
+      "email": "asd@asd.ru",
+      "password": "$2a$10$jqEWEmpC5rwXPCIQsfbfZeVoxya7r5DoW7PC4gKXSPkGkLIIzezEa",
+      "name": {
+        "firstName": "tester",
+        "lastName": "test"
+      },
+      "birthDate": "1920-04-01T18:52:12.000Z",
+      "gender": "male",
+      "phone": "+93123123123",
+      "citizenship": "afghanistan",
+      "id": 6
+    },
+    {
+      "email": "asd@asd.re",
+      "password": "$2a$10$d2GmkA9OgU0.LVYAPVROnOKMMdCR8JlCHloscZUf4dPADOFzoUOGa",
+      "name": {
+        "firstName": "tester",
+        "lastName": "test"
+      },
+      "birthDate": "1920-04-01T18:52:12.000Z",
+      "gender": "male",
+      "phone": "+93123123123",
+      "citizenship": "afghanistan",
+      "id": 7
+    },
+    {
+      "email": "asd@asd.wq",
+      "password": "$2a$10$Odd1XiodjPmvaRT.rmdAheDmvx3Pn7vgp1povbqXAfGMosUc5ogwi",
+      "name": {
+        "firstName": "tester",
+        "lastName": "test"
+      },
+      "birthDate": "1920-04-01T18:52:12.000Z",
+      "gender": "female",
+      "phone": "+93123123123",
+      "citizenship": "russia",
+      "id": 8
     }
-  ]
+  ],
+  "tickets": []
 }
