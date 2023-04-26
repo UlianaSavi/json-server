@@ -13,6 +13,10 @@ json-server for  Airways-rs-school
 
 - get tickets from db - `http://localhost:4000/tickets`
 
+- get ticket by id from db - `http://localhost:4000/tickets/id`
+
+- get tickets and filter them - `http://localhost:4000/tickets?filterName=filterCriteria`
+
 - register - `POST /register` (*email* and *password* are required in the *request* body. **Must be valid and in a single copy** )
 
 - login - `POST /login` (*email* and *password* are required in the *request* body.)
