@@ -11,6 +11,8 @@ json-server for  Airways-rs-school
 
 - get users from db - `http://localhost:4000/users`
 
+- get cities from db - `http://localhost:4000/cities`
+
 - get tickets from db - `http://localhost:4000/tickets`
 
 - get ticket by id from db - `http://localhost:4000/tickets/id`
