@@ -1,5 +1,6 @@
 {
-  "users": [{
+  "users": [
+    {
       "email": "333@qwe.ru",
       "password": "$2a$10$8TVZ.tUNtYffzJsuH8olb.ugbfplcusnrh6m2f77oT2M7sWvuCZce",
       "name": {
@@ -104,10 +105,11 @@
       "id": 8
     }
   ],
-  "tickets": [{
+  "tickets": [
+    {
       "id": 1,
       "type": "from",
-      "date": "07.05.2023",
+      "date": "05.07.2023",
       "price": "200",
       "times": {
         "start": "12:00",
@@ -118,12 +120,12 @@
         "to": "Dublin"
       },
       "flightNum": "FR125",
-      "seats": 45
+      "seats": 105
     },
     {
       "id": 2,
       "type": "from",
-      "date": "08.05.2023",
+      "date": "05.08.2023",
       "price": "120",
       "times": {
         "start": "17:00",
@@ -134,12 +136,12 @@
         "to": "Dublin"
       },
       "flightNum": "FR126",
-      "seats": 23
+      "seats": 9
     },
     {
       "id": 3,
       "type": "from",
-      "date": "09.05.2023",
+      "date": "05.09.2023",
       "price": "190",
       "times": {
         "start": "16:10",
@@ -150,12 +152,12 @@
         "to": "Dublin"
       },
       "flightNum": "FR127",
-      "seats": 100
+      "seats": 101
     },
     {
       "id": 4,
       "type": "from",
-      "date": "10.05.2023",
+      "date": "05.10.2023",
       "price": "126",
       "times": {
         "start": "13:20",
@@ -171,7 +173,7 @@
     {
       "id": 5,
       "type": "from",
-      "date": "11.05.2023",
+      "date": "05.11.2023",
       "price": "180",
       "times": {
         "start": "9:20",
@@ -187,7 +189,7 @@
     {
       "id": 6,
       "type": "from",
-      "date": "12.05.2023",
+      "date": "05.12.2023",
       "price": "180",
       "times": {
         "start": "10:20",
@@ -203,7 +205,7 @@
     {
       "id": 7,
       "type": "from",
-      "date": "13.05.2023",
+      "date": "05.13.2023",
       "price": "150",
       "times": {
         "start": "14:15",
@@ -214,12 +216,12 @@
         "to": "Dublin"
       },
       "flightNum": "FR131",
-      "seats": 100
+      "seats": 101
     },
     {
       "id": 8,
       "type": "from",
-      "date": "14.05.2023",
+      "date": "05.14.2023",
       "price": "160",
       "times": {
         "start": "12:00",
@@ -230,12 +232,12 @@
         "to": "Dublin"
       },
       "flightNum": "FR132",
-      "seats": 79
+      "seats": 7
     },
     {
       "id": 9,
       "type": "from",
-      "date": "15.05.2023",
+      "date": "05.15.2023",
       "price": "100",
       "times": {
         "start": "23:30",
@@ -251,7 +253,7 @@
     {
       "id": 10,
       "type": "from",
-      "date": "16.05.2023",
+      "date": "05.16.2023",
       "price": "160",
       "times": {
         "start": "15:10",
@@ -262,7 +264,7 @@
         "to": "Dublin"
       },
       "flightNum": "FR134",
-      "seats": 79
+      "seats": 1
     },
     {
       "id": 11,
@@ -283,7 +285,7 @@
     {
       "id": 12,
       "type": "back",
-      "date": "08.05.2023",
+      "date": "05.08.2023",
       "price": "152",
       "times": {
         "start": "5:20",
@@ -299,7 +301,7 @@
     {
       "id": 13,
       "type": "back",
-      "date": "09.05.2023",
+      "date": "05.09.2023",
       "price": "210",
       "times": {
         "start": "13:00",
@@ -315,7 +317,7 @@
     {
       "id": 14,
       "type": "back",
-      "date": "10.05.2023",
+      "date": "05.10.2023",
       "price": "130",
       "times": {
         "start": "19:45",
@@ -331,7 +333,7 @@
     {
       "id": 15,
       "type": "back",
-      "date": "11.05.2023",
+      "date": "05.11.2023",
       "price": "170",
       "times": {
         "start": "13:00",
@@ -347,7 +349,7 @@
     {
       "id": 16,
       "type": "back",
-      "date": "12.05.2023",
+      "date": "05.12.2023",
       "price": "140",
       "times": {
         "start": "16:50",
@@ -363,7 +365,7 @@
     {
       "id": 17,
       "type": "back",
-      "date": "12.05.2023",
+      "date": "05.12.2023",
       "price": "140",
       "times": {
         "start": "16:50",
@@ -379,7 +381,7 @@
     {
       "id": 18,
       "type": "back",
-      "date": "13.05.2023",
+      "date": "05.13.2023",
       "price": "200",
       "times": {
         "start": "12:00",
@@ -395,7 +397,7 @@
     {
       "id": 19,
       "type": "back",
-      "date": "14.05.2023",
+      "date": "05.14.2023",
       "price": "150",
       "times": {
         "start": "21:30",
@@ -411,7 +413,7 @@
     {
       "id": 20,
       "type": "back",
-      "date": "15.05.2023",
+      "date": "05.15.2023",
       "price": "150",
       "times": {
         "start": "18:30",
