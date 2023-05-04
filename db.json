@@ -103,6 +103,32 @@
       "phone": "+93123123123",
       "citizenship": "russia",
       "id": 8
+    },
+    {
+      "email": "Tester123@tester.tester",
+      "password": "$2a$10$NMqc6iYKWxyPkpi.wFpuhuOwiNcQHZJBWrkaGoQeogCSNWE.w9Xf.",
+      "name": {
+        "firstName": "testerN",
+        "lastName": "testerF"
+      },
+      "birthDate": "1920-04-01T18:52:12.000Z",
+      "gender": "male",
+      "phone": "+7123123123123",
+      "citizenship": "russia",
+      "id": 9
+    },
+    {
+      "email": "Tester111@tester.tester",
+      "password": "$2a$10$ZbXDOUzGzy3l/JkFJxz7S.qmGlpiO.pnaIKTekHAklnqf8bePstz6",
+      "name": {
+        "firstName": "Tester111N",
+        "lastName": "Tester111F"
+      },
+      "birthDate": "1969-04-03T18:00:00.000Z",
+      "gender": "male",
+      "phone": "+7123123123123",
+      "citizenship": "afghanistan",
+      "id": 10
     }
   ],
   "tickets": [
@@ -427,7 +453,8 @@
       "seats": 45
     }
   ],
-  "cities": [{
+  "cities": [
+    {
       "id": "85cdcc78-3039-486f-9ff3-7bbb1331619a",
       "type": "city",
       "code": "MAD",
