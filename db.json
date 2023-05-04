@@ -240,8 +240,8 @@
       "date": "05.15.2023",
       "price": "100",
       "times": {
-        "start": "23:30",
-        "end": "01:30"
+        "start": "20:30",
+        "end": "22:30"
       },
       "country": {
         "from": "Madrid",
@@ -425,6 +425,326 @@
       },
       "flightNum": "FR134",
       "seats": 45
+    },
+    {
+      "id": 21,
+      "type": "back",
+      "date": "05.07.2023",
+      "price": "200",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR125",
+      "seats": 99
+    },
+    {
+      "id": 22,
+      "type": "back",
+      "date": "05.08.2023",
+      "price": "120",
+      "times": {
+        "start": "17:00",
+        "end": "19:00"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR126",
+      "seats": 10
+    },
+    {
+      "id": 23,
+      "type": "back",
+      "date": "05.09.2023",
+      "price": "190",
+      "times": {
+        "start": "16:10",
+        "end": "18:35"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR127",
+      "seats": 101
+    },
+    {
+      "id": 24,
+      "type": "back",
+      "date": "05.10.2023",
+      "price": "126",
+      "times": {
+        "start": "13:20",
+        "end": "15:40"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR128",
+      "seats": 148
+    },
+    {
+      "id": 25,
+      "type": "back",
+      "date": "05.11.2023",
+      "price": "180",
+      "times": {
+        "start": "9:20",
+        "end": "11:20"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR129",
+      "seats": 94
+    },
+    {
+      "id": 26,
+      "type": "back",
+      "date": "05.12.2023",
+      "price": "180",
+      "times": {
+        "start": "10:20",
+        "end": "12:20"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR130",
+      "seats": 44
+    },
+    {
+      "id": 27,
+      "type": "back",
+      "date": "05.13.2023",
+      "price": "150",
+      "times": {
+        "start": "14:15",
+        "end": "16:20"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR131",
+      "seats": 111
+    },
+    {
+      "id": 28,
+      "type": "back",
+      "date": "05.14.2023",
+      "price": "160",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR132",
+      "seats": 74
+    },
+    {
+      "id": 29,
+      "type": "back",
+      "date": "05.15.2023",
+      "price": "100",
+      "times": {
+        "start": "20:30",
+        "end": "22:30"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR133",
+      "seats": 79
+    },
+    {
+      "id": 30,
+      "type": "back",
+      "date": "05.16.2023",
+      "price": "160",
+      "times": {
+        "start": "15:10",
+        "end": "17:20"
+      },
+      "country": {
+        "from": "Madrid",
+        "to": "Dublin"
+      },
+      "flightNum": "FR134",
+      "seats": 12
+    },
+    {
+      "id": 31,
+      "type": "from",
+      "date": "7.05.2023",
+      "price": "140",
+      "times": {
+        "start": "10:20",
+        "end": "12:20"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR125",
+      "seats": 55
+    },
+    {
+      "id": 32,
+      "type": "from",
+      "date": "05.08.2023",
+      "price": "152",
+      "times": {
+        "start": "5:20",
+        "end": "7:10"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR126",
+      "seats": 11
+    },
+    {
+      "id": 33,
+      "type": "from",
+      "date": "05.09.2023",
+      "price": "210",
+      "times": {
+        "start": "13:00",
+        "end": "15:15"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR127",
+      "seats": 78
+    },
+    {
+      "id": 34,
+      "type": "from",
+      "date": "05.10.2023",
+      "price": "130",
+      "times": {
+        "start": "19:45",
+        "end": "21:40"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR128",
+      "seats": 100
+    },
+    {
+      "id": 35,
+      "type": "from",
+      "date": "05.11.2023",
+      "price": "170",
+      "times": {
+        "start": "13:00",
+        "end": "15:15"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR129",
+      "seats": 23
+    },
+    {
+      "id": 36,
+      "type": "from",
+      "date": "05.12.2023",
+      "price": "140",
+      "times": {
+        "start": "16:50",
+        "end": "18:50"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR130",
+      "seats": 123
+    },
+    {
+      "id": 37,
+      "type": "from",
+      "date": "05.12.2023",
+      "price": "140",
+      "times": {
+        "start": "16:50",
+        "end": "18:50"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR131",
+      "seats": 67
+    },
+    {
+      "id": 38,
+      "type": "from",
+      "date": "05.13.2023",
+      "price": "200",
+      "times": {
+        "start": "12:00",
+        "end": "14:00"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR132",
+      "seats": 8
+    },
+    {
+      "id": 39,
+      "type": "from",
+      "date": "05.14.2023",
+      "price": "150",
+      "times": {
+        "start": "21:30",
+        "end": "23:45"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR133",
+      "seats": 123
+    },
+    {
+      "id": 40,
+      "type": "from",
+      "date": "05.15.2023",
+      "price": "150",
+      "times": {
+        "start": "18:30",
+        "end": "20:10"
+      },
+      "country": {
+        "from": "Dublin",
+        "to": "Madrid"
+      },
+      "flightNum": "FR134",
+      "seats": 5
     }
   ],
   "cities": [{
